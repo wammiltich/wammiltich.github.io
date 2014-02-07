@@ -2,12 +2,7 @@
 layout: post
 ---
 
-This is a test page **wooooot lol**
-
-*SWAGSWAG*
-
-
-
+**
 <pre>
           ____,'`-,
      _,--'   ,/::.;
@@ -32,3 +27,4 @@ This is a test page **wooooot lol**
                   |:  ::::.       ::'
                   |:  ::::::    ,::'
 </pre>
+**
